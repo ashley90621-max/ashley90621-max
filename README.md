@@ -1,6 +1,6 @@
 # Hi, I'm Ashley! My Chinese name is Kuei-Chun Liu
 
-__[中文版 README](https://github.com/ashley90621-max/ashley90621-max/blob/main/chinese-readme.md)__
+__[Chinese version of readme.md](https://github.com/ashley90621-max/ashley90621-max/blob/main/chinese-readme.md)__
 
 > Data Scientist specializing in ML, NLP, RAG & AI Fintech — building systems that turn data into decisions.
 
