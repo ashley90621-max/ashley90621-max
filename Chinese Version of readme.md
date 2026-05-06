@@ -1,6 +1,6 @@
 # 嗨，我是 Ashley！我的中文名字是劉桂均 👋
 
-__[English Version of README](https://github.com/ashley90621-max/ashley90621-max/blob/main/README.md)__
+__[English Version of README.md](https://github.com/ashley90621-max/ashley90621-max/blob/main/README.md)__
 
 > 資料科學家，專注於 ML、NLP、RAG 與 AI 金融科技 — 將資料轉化為決策系統。
 
