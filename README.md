@@ -69,3 +69,45 @@ Benchmarking SVM, GBM, and XGBoost for hourly bike rental demand forecasting.
 Marketing analytics case study covering CAC, CLV, and loyalty programme ROI in R.
 - Computed CLV for foodie vs non-foodie segments (£162.65 vs £26.94)
 - Loyalty programme analysis: +20% CLV uplift for foodie segment
+
+---
+
+## 📊 Core Technical Themes
+
+Rather than listing tools, I focus on applied impact across the following dimensions:
+
+**ML for Business Decisions**
+* Credit risk modelling & loan timing prediction
+* Customer lifetime value & churn prediction
+* Marketing mix modelling & causal inference
+
+**AI Applications**
+* RAG pipeline design & evaluation
+* Task-oriented dialogue systems (NLU + DST)
+* LLM-powered business intelligence tools
+
+**Product & Analytics**
+* End-to-end ML pipeline development
+* Data-driven product strategy for SMEs
+* Full-stack web deployment (HTML/JS + Vercel)
+
+---
+
+## 🔬 Research Direction
+
+**MSc Dissertation: Loan Timing Prediction using ML**
+*In collaboration with Amplifi Capital UK*
+
+I am particularly interested in:
+* Applying ML to credit risk and alternative lending decisions
+* Predicting optimal loan timing using behavioural and transactional signals
+* Bridging academic ML research with real-world fintech deployment
+
+Long-term vision: ML models should not merely predict outcomes — **they should surface actionable signals that help businesses and individuals make better financial decisions.**
+
+---
+
+## 📈 GitHub Stats
+
+![Ashley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashley90621-max&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashley90621-max&layout=compact&theme=default&hide_border=true)
