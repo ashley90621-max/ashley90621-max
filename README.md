@@ -25,50 +25,50 @@ If you'd like, please take a look at my selected projects below — built to sol
 
 ## Selected Projects
 
-**1️⃣ [BizVital](https://github.com/ashley90621-max/BizVital)**
-AI analytics platform for Taiwan SMEs — four intelligent agents in one dashboard.
-- Built full-stack with HTML/CSS/JS, deployed on Vercel
-- Finance / Sales / Operations / Marketing Agent with 20+ Chart.js visualisations
-- [Live Demo](https://biz-vital.vercel.app/)
-
-**2️⃣ [Hotel Booking Cancellation Prediction](https://github.com/ashley90621-max/hotel-booking-cancellation-prediction)**
+**1️⃣ [Hotel Booking Cancellation Prediction](https://github.com/ashley90621-max/hotel-booking-cancellation-prediction)**
 End-to-end ML pipeline for predicting hotel cancellations across 119K booking records.
 - Benchmarked Random Forest, XGBoost, and TabNet
 - Applied SMOTE, threshold tuning, and segment-level error analysis
 - Final model: XGBoost (Recall 0.708, ROC-AUC 0.833, recoverable revenue ~€1.3M)
 
-**3️⃣ [Restaurant Recommendation Chatbot](https://github.com/ashley90621-max/restaurant-chatbot-nlp)**
+**2️⃣ [Restaurant Recommendation Chatbot](https://github.com/ashley90621-max/restaurant-chatbot-nlp)**
 Task-oriented dialogue system for Philadelphia restaurant recommendations.
 - Fine-tuned ModernBERT for joint intent classification and slot filling
 - Knowledge Graph built from 687,499 Yelp reviews across 5,854 restaurants
 - Multi-turn dialogue with Dialogue State Tracker (DST) and session management
 
-**4️⃣ [Market Research Assistant](https://github.com/ashley90621-max/market-research-assistant)**
+**3️⃣ [Market Research Assistant](https://github.com/ashley90621-max/market-research-assistant)**
 RAG-powered industry report generator using Wikipedia retrieval and GPT synthesis.
 - Built with LangChain, Streamlit, and OpenAI API
 - Semantic validation layer filters invalid inputs before retrieval
 - [Live Demo](https://market-research-assistant-jryprcyvq4w2zkzcmagxlm.streamlit.app/)
 
-**5️⃣ [Causal Inference in Marketing](https://github.com/ashley90621-max/causal-inference-marketing-r)**
+**4️⃣ [Causal Inference in Marketing](https://github.com/ashley90621-max/causal-inference-marketing-r)**
 Applied causal methods to TV retail panel data — moving beyond correlation to true effect estimation.
 - Marketing Mix Modeling with brand and week fixed effects (fixest)
 - A/B test design (80/10/10 split) for Amazon Virtual Try-On feature
 - Regression Discontinuity Design: top-20% marketing spend → +172 units causal lift
 
-**6️⃣ [Targeted Marketing with ML](https://github.com/ashley90621-max/targeted-marketing-ml-r)**
+**5️⃣ [Targeted Marketing with ML](https://github.com/ashley90621-max/targeted-marketing-ml-r)**
 RFM segmentation and supervised ML to maximise marketing ROI on Amazon Prime subscriptions.
 - Compared blanket mailing (ROI −0.22) vs decision tree targeting (ROI +0.68)
 - Built in R with dplyr, rpart, and ranger (Random Forest)
 
-**7️⃣ [Bike Sharing Demand Prediction](https://github.com/ashley90621-max/bike-sharing-demand-prediction)**
+**6️⃣ [Bike Sharing Demand Prediction](https://github.com/ashley90621-max/bike-sharing-demand-prediction)**
 Benchmarking SVM, GBM, and XGBoost for hourly bike rental demand forecasting.
 - XGBoost achieved best performance: R²=0.82, RMSE=74.75
 - Feature engineering on weather, time, and seasonal variables
 
-**8️⃣ [Break-Even & Customer Lifetime Value Analysis](https://github.com/ashley90621-max/break-even-analysis-r)**
+**7️⃣ [Break-Even & Customer Lifetime Value Analysis](https://github.com/ashley90621-max/break-even-analysis-r)**
 Marketing analytics case study covering CAC, CLV, and loyalty programme ROI in R.
 - Computed CLV for foodie vs non-foodie segments (£162.65 vs £26.94)
 - Loyalty programme analysis: +20% CLV uplift for foodie segment
+
+**8️⃣ [BizVital](https://github.com/ashley90621-max/BizVital)**
+AI analytics platform for Taiwan SMEs — four intelligent agents in one dashboard.
+- Built full-stack with HTML/CSS/JS, deployed on Vercel
+- Finance / Sales / Operations / Marketing Agent with 20+ Chart.js visualisations
+- [Live Demo](https://biz-vital.vercel.app/)
 
 ---
 
