@@ -21,7 +21,7 @@ not just as modeling exercises, but as complete solutions — from data pipeline
 
 ---
 
-If you'd like, please take a look at my selected projects below — built to solve real problems.
+If you'd like, please take a look at my selected projects below.
 
 ## Selected Projects
 
