@@ -96,8 +96,7 @@ Rather than listing tools, I focus on applied impact across the following dimens
 ## Research Direction
 
 **MSc Dissertation: Loan Timing Prediction using ML**
-*In collaboration with Amplifi Capital UK*
-*Dissertation: Loan Timing Prediction using ML × Fintech · In collaboration with [Amplifi Capital UK](https://www.amplificapital.com/)
+*Dissertation: Loan Timing Prediction using ML × Fintech · In collaboration with [Amplifi Capital UK](https://www.amplificapital.com/)*
 
 I am particularly interested in:
 * Applying ML to credit risk and alternative lending decisions
