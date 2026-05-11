@@ -23,15 +23,12 @@ not just as modeling exercises, but as complete solutions — from data pipeline
 
 If you'd like, please take a look at my selected projects below — built to solve real problems.
 
----
-
 ## Selected Projects
 
 **1️⃣ [BizVital](https://github.com/ashley90621-max/BizVital)**
 AI analytics platform for Taiwan SMEs — four intelligent agents in one dashboard.
 - Built full-stack with HTML/CSS/JS, deployed on Vercel
 - Finance / Sales / Operations / Marketing Agent with 20+ Chart.js visualisations
-- Targeting 1.71M Taiwan SMEs with NT$1,990/month flat pricing
 - [Live Demo](https://biz-vital.vercel.app/)
 
 **2️⃣ [Hotel Booking Cancellation Prediction](https://github.com/ashley90621-max/hotel-booking-cancellation-prediction)**
