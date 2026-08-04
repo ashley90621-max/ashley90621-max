@@ -16,7 +16,7 @@ not just as modeling exercises, but as complete solutions — from data pipeline
 - Building **BizVital** — an ML-powered business analytics platform for SMEs
 - Building **NLP-powered restaurant recommendation systems** — chatbot using ModernBERT
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuei-chun-liu-86182a25b/)
+[![LINKEDIN](https://www.linkedin.com/in/ashley-liu-86182a25b/?isSelfProfile=true&locale=zh)
 [![BIZVITAL](https://img.shields.io/badge/BizVital-FF6B6B?style=for-the-badge&logoColor=white)](https://biz-vital.vercel.app/)
 
 ---
