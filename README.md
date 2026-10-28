@@ -94,20 +94,3 @@ Rather than listing tools, I focus on applied impact across the following dimens
 
 ## Research Direction
 
-**MSc Dissertation: Loan Timing Prediction using ML**
-* Dissertation: Loan Timing Prediction using ML × Fintech *
-* In collaboration with [Amplifi Capital UK](https://www.amplificapital.com/) *
-
-I am particularly interested in:
-* Applying ML to credit risk and alternative lending decisions
-* Predicting optimal loan timing using behavioural and transactional signals
-* Bridging academic ML research with real-world fintech deployment
-
-Long-term vision: ML models should not merely predict outcomes — **they should surface actionable signals that help businesses and individuals make better financial decisions.**
-
----
-
-## 📈 GitHub Stats
-
-![Ashley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashley90621-max&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashley90621-max&layout=compact&theme=default&hide_border=true)
